@@ -26,9 +26,9 @@
 			<label class="yazi">Dolar:3.75</label>
 			<img id="euro" src="images/euro.png"/>
 			<label class="yazi">Euro:4.15</label>
-			<img id="altin" src="images/altin"/>
+			<img id="gold" src="images/gold.png"/>
 			<label class="yazi">Altin:100</label>
-			<img id="sun" src="images/sun"/>
+			<img id="sun" src="images/sun.png"/>
 			<label class="yazi">Kahramanmaras:25</label>
 			</div>
 
